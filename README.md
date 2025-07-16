@@ -35,4 +35,4 @@ Collection of practical and idiomatic **Go concurrency examples**, covering core
 ```bash
 git clone https://github.com/yourusername/go-concurrency-patterns.git
 cd go-concurrency-patterns
-go run worker-pool/main.go
+go run worker-pool/minimalWorkerPool.go
